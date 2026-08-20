@@ -1,0 +1,971 @@
+[
+  {
+    "id": "seed-001",
+    "name": "カレーライス",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-002",
+    "name": "肉じゃが",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "牛肉",
+        "amount": "200g"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-003",
+    "name": "コロッケ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ひき肉",
+        "amount": "200g"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-004",
+    "name": "ポテトサラダ",
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "きゅうり",
+        "amount": "1本"
+      },
+      {
+        "name": "ハム",
+        "amount": "4枚"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      }
+    ],
+    "category": "side",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-005",
+    "name": "豚の生姜焼き",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "しょうが",
+        "amount": "1かけ"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-006",
+    "name": "生姜焼き丼",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "しょうが",
+        "amount": "1かけ"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-007",
+    "name": "豚丼",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-008",
+    "name": "豚キムチ",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "キムチ",
+        "amount": "100g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にら",
+        "amount": "1/2束"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-009",
+    "name": "回鍋肉",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "キャベツ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "2個"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-010",
+    "name": "青椒肉絲",
+    "ingredients": [
+      {
+        "name": "牛肉",
+        "amount": "200g"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "2個"
+      },
+      {
+        "name": "たけのこ",
+        "amount": "100g"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-011",
+    "name": "麻婆豆腐",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "豚ひき肉",
+        "amount": "150g"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-012",
+    "name": "麻婆茄子",
+    "ingredients": [
+      {
+        "name": "なす",
+        "amount": "2本"
+      },
+      {
+        "name": "豚ひき肉",
+        "amount": "150g"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-013",
+    "name": "八宝菜",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "白菜",
+        "amount": "1/8個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "2個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-014",
+    "name": "酢豚",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "2個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-015",
+    "name": "親子丼",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-016",
+    "name": "照り焼きチキン",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-017",
+    "name": "チキン南蛮",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "キャベツ",
+        "amount": "1/4個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-018",
+    "name": "鶏むね肉とピーマンの炒め物",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "2個"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-019",
+    "name": "唐揚げ",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "しょうが",
+        "amount": "1かけ"
+      },
+      {
+        "name": "にんにく",
+        "amount": "1かけ"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-020",
+    "name": "筑前煮",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "れんこん",
+        "amount": "100g"
+      },
+      {
+        "name": "ごぼう",
+        "amount": "1/2本"
+      },
+      {
+        "name": "こんにゃく",
+        "amount": "1/2枚"
+      },
+      {
+        "name": "しいたけ",
+        "amount": "4個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-021",
+    "name": "ハンバーグ",
+    "ingredients": [
+      {
+        "name": "ひき肉",
+        "amount": "200g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-022",
+    "name": "ミートソースパスタ",
+    "ingredients": [
+      {
+        "name": "ひき肉",
+        "amount": "200g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "トマト",
+        "amount": "1個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-023",
+    "name": "オムライス",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "ピーマン",
+        "amount": "2個"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-024",
+    "name": "親子うどん",
+    "ingredients": [
+      {
+        "name": "鶏肉",
+        "amount": "250g"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "うどん",
+        "amount": "2玉"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-025",
+    "name": "焼きうどん",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "キャベツ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "うどん",
+        "amount": "2玉"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-026",
+    "name": "焼きそば",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "キャベツ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "焼きそば麺",
+        "amount": "2玉"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-027",
+    "name": "鮭のムニエル",
+    "ingredients": [
+      {
+        "name": "鮭",
+        "amount": "2切れ"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": "2個"
+      },
+      {
+        "name": "きのこ",
+        "amount": "1パック"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-028",
+    "name": "鮭のホイル焼き",
+    "ingredients": [
+      {
+        "name": "鮭",
+        "amount": "2切れ"
+      },
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "きのこ",
+        "amount": "1パック"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-029",
+    "name": "サバの味噌煮",
+    "ingredients": [
+      {
+        "name": "さば",
+        "amount": "2切れ"
+      },
+      {
+        "name": "しょうが",
+        "amount": "1かけ"
+      }
+    ],
+    "category": "main",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-030",
+    "name": "豚汁",
+    "ingredients": [
+      {
+        "name": "豚肉",
+        "amount": "200g"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "大根",
+        "amount": "1/4本"
+      },
+      {
+        "name": "ごぼう",
+        "amount": "1/2本"
+      },
+      {
+        "name": "こんにゃく",
+        "amount": "1/2枚"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      }
+    ],
+    "category": "soup",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-031",
+    "name": "わかめと豆腐の味噌汁",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "わかめ",
+        "amount": "5g"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      }
+    ],
+    "category": "soup",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-032",
+    "name": "きのこ味噌汁",
+    "ingredients": [
+      {
+        "name": "きのこ",
+        "amount": "1パック"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      },
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      }
+    ],
+    "category": "soup",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-033",
+    "name": "コンソメスープ",
+    "ingredients": [
+      {
+        "name": "たまねぎ",
+        "amount": "1個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "キャベツ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "ベーコン",
+        "amount": "4枚"
+      }
+    ],
+    "category": "soup",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-034",
+    "name": "中華スープ",
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": "2個"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      },
+      {
+        "name": "わかめ",
+        "amount": "5g"
+      }
+    ],
+    "category": "soup",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-035",
+    "name": "キャベツの千切りサラダ",
+    "ingredients": [
+      {
+        "name": "キャベツ",
+        "amount": "1/4個"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      }
+    ],
+    "category": "side",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-036",
+    "name": "きゅうりとわかめの酢の物",
+    "ingredients": [
+      {
+        "name": "きゅうり",
+        "amount": "1本"
+      },
+      {
+        "name": "わかめ",
+        "amount": "5g"
+      }
+    ],
+    "category": "side",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-037",
+    "name": "ほうれん草のごま和え",
+    "ingredients": [
+      {
+        "name": "ほうれん草",
+        "amount": "1/2束"
+      },
+      {
+        "name": "ごま",
+        "amount": "大さじ1"
+      }
+    ],
+    "category": "side",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-038",
+    "name": "冷奴",
+    "ingredients": [
+      {
+        "name": "豆腐",
+        "amount": "1丁"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": "1/2本"
+      }
+    ],
+    "category": "side",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  },
+  {
+    "id": "seed-039",
+    "name": "ひじきの煮物",
+    "ingredients": [
+      {
+        "name": "ひじき",
+        "amount": "15g"
+      },
+      {
+        "name": "にんじん",
+        "amount": "1本"
+      },
+      {
+        "name": "油揚げ",
+        "amount": "1枚"
+      }
+    ],
+    "category": "side",
+    "recipeUrl": "",
+    "recipeMemo": "",
+    "source": "定番家庭料理リストを参考に初期候補化",
+    "userAdded": false
+  }
+]
